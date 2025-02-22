@@ -44801,7 +44801,7 @@ e=o.d
 e.push(a)
 o.b=!0
 q=3
-n=A.aII(A.a3G(A.el("ws://"+a.k(0)),null))
+n=A.aII(A.a3G(A.el("wss://"+a.k(0)),null))
 A.bV("Connected to server!")
 f.a=f.b=!1
 m=A.b8("subscription")
@@ -44919,7 +44919,7 @@ var $async$w7=A.t(function(b,c){if(b===1)return A.o(c,r)
 while(true)$async$outer:switch(s){case 0:for(o=p.b,n=o.gaw(),m=A.k(n),n=new A.aC(J.ae(n.a),n.b,m.h("aC<1,2>")),m=m.y[1];n.t();){l=n.a
 if((l==null?m.a(l):l).b.j(0,a)){s=1
 break $async$outer}}k=new A.rC(B.z9,a,$)
-n=k.e=A.aII(A.a3G(A.el("ws://"+a.k(0)),null))
+n=k.e=A.aII(A.a3G(A.el("wss://"+a.k(0)),null))
 m=t.N
 l=n.gqr().ei(0,m)
 m=A.wv(null,null,null,!0,m)
